@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192120085816",
+    "project_id": "dangnhapchinh",
+    "storage_bucket": "dangnhapchinh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192120085816:android:56082f52d541872acf35cd",
+        "android_client_info": {
+          "package_name": "com.example.uthsmarttasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192120085816-bb4gp5a580bi2s85ts115lqoq5tbn3m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uthsmarttasks",
+            "certificate_hash": "166bd5d64b28121d9876c7c3ac94fe3cc4b145db"
+          }
+        },
+        {
+          "client_id": "192120085816-pvb49u69grvi8683t1dsd5lvvsjgc7f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdIDZ3HCJ6Qk_PeDWM_DQI9E6JHPEZ7Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192120085816-pvb49u69grvi8683t1dsd5lvvsjgc7f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
